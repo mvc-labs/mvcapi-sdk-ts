@@ -1,0 +1,5 @@
+{
+  "npmName": "metasv-mvc-sdk",
+  "supportsES6": true,
+  "withNodeImports":true
+}

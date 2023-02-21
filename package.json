@@ -1,6 +1,6 @@
 {
   "name": "metasv-mvc-sdk",
-  "version": "2.2.0",
+  "version": "3.0.2",
   "description": "OpenAPI client for metasv-mvc-sdk",
   "author": "OpenAPI-Generator Contributors",
   "keywords": [

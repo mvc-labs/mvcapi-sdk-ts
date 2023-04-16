@@ -1,14 +1,14 @@
 {
-  "name": "metasv-mvc-sdk",
-  "version": "3.0.2",
-  "description": "OpenAPI client for metasv-mvc-sdk",
+  "name": "mvcapi-sdk",
+  "version": "3.0.8",
+  "description": "OpenAPI client for mvcapi-sdk",
   "author": "OpenAPI-Generator Contributors",
   "keywords": [
     "axios",
     "typescript",
     "openapi-client",
     "openapi-generator",
-    "metasv-mvc-sdk"
+    "mvcapi-sdk"
   ],
   "license": "Unlicense",
   "main": "./dist/index.js",

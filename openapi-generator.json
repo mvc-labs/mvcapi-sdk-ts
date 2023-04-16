@@ -1,5 +1,5 @@
 {
-  "npmName": "metasv-mvc-sdk",
+  "npmName": "mvcapi-sdk",
   "supportsES6": true,
   "withNodeImports":true
 }

@@ -1,6 +1,6 @@
 {
   "name": "mvcapi-sdk",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "description": "OpenAPI client for mvcapi-sdk",
   "author": "OpenAPI-Generator Contributors",
   "keywords": [
